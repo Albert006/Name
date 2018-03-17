@@ -1,0 +1,25 @@
+html{
+    background: black;
+}
+table{
+   
+     padding: 15px 32px;
+    border: groove;
+    width: 50%;
+    height: 100%;
+    top: 40%;
+    color: black;
+     margin-left:auto; 
+    margin-right:auto;
+   
+    text-align: center;
+}
+.w3-wide{
+    color:black;
+}
+.w3-opacity{
+    color:black;
+}
+
+
+
