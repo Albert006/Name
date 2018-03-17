@@ -180,7 +180,7 @@ function draw() {
 		
 		
 		//window.location.href = "/index.html?cal=" + text1 + "&text2=" + text2 + "&text3=" + text3 + "&text4=" + text4;
-		window.location.href = window.location.href + "?playerScore=" + playerScore + "&AIScore=" + AIScore + "&playerHits=" + playerHits + "&AIHits=" + AIHits + "&WallHits=" + WallHits;
+		window.location.href = "https://albert006.github.io/Name/leaderboard.html" + "?playerScore=" + playerScore + "&AIScore=" + AIScore + "&playerHits=" + playerHits + "&AIHits=" + AIHits + "&WallHits=" + WallHits;
         
     }
     

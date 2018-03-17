@@ -17,6 +17,10 @@ $( document ).ready(function() {
   console.log("working");
 	params = getParameters()
 	console.log(params);
+    
+    var newcode = "  <tr><td>" + params.AIHits + "</td><td>" + params.AIScore + "</td><td>" + params.WallHits + " </td><td>" + params.playerHits + "</td><td>" + params.playerScore + " </td></tr>"
+    
+    $("table").append(newcode);
 	
 
 });
